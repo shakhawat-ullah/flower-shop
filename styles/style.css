@@ -26,8 +26,15 @@ button {
     border: none;
     border-radius: 8px;
     background: #E55473;
+    cursor: pointer;
 
 }
+
+button:hover {
+    background-color: #2BA8A8;
+}
+
+
 
 .container {
     width: 75%;
@@ -265,7 +272,7 @@ footer p {
     }
 
     button {
-        padding: 12px 20px;
+        padding: 12px 22px;
         font-size: 15px;
     }
 
