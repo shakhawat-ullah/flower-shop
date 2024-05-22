@@ -106,10 +106,14 @@ header {
     margin-top: 30px;
 }
 
+.flowers .flower {
+    width: 100%;
+}
+
 
 
 .flowers .flower img {
-    width: 90%;
+    width: 100%;
     border-radius: 300px 300px 0px 0px;
     padding: 20px 20px 0px 20px;
     height: 450px;
@@ -307,6 +311,8 @@ footer p {
         margin-top: 50px;
     }
 
+    
+
     .flowers-title {
         padding: 0 30px;
     }
@@ -318,11 +324,11 @@ footer p {
 
 
 
-    .flowers .flower img {
+    /* .flowers .flower img {
         width: 95%;
         height: 450px;
 
-    }
+    } */
 
     .flower p {
         font-size: 18px;
